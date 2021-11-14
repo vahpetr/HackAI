@@ -1,4 +1,4 @@
-# Hack AI. balkondev
+# Hack AI. MTC. balkondev
 
 Решение для хакатона hAcK AI. Питер. balkondev
 
