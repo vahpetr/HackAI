@@ -1,6 +1,6 @@
 # Hack AI. MTC. balkondev
 
-Решение для хакатона hAcK AI. Питер. balkondev
+Решение для хакатона. Питер. hAcK AI. MTC. balkondev
 
 1. [Кейс pdf](balkondev-case-mts.pdf)
 1. [Архитектура решения pdf](balkondev-solution-architecture.pdf)
