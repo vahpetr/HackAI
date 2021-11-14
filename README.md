@@ -8,5 +8,6 @@
 1. [Презентация pdf](balkondev-presentation-v2.pdf)
 1. [Презентация figma](https://www.figma.com/file/JilUZYx8XZQww9gycxoCo6/Untitled?node-id=113%3A165)
 1. [Скринкаст mov](balkondev-screencast.mov)
+1. [Скринкаст gif](balkondev-screencast.gif)
 1. [Блокнот pdf](balkondev-notebook.pdf)
 1. [Блокнот ipynb](balkondev-notebook.ipynb)
